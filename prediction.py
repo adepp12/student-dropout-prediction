@@ -1,8 +1,8 @@
 import joblib
 import pandas as pd
 
-model = joblib.load("model/gboost_model.joblib")
-result_label = joblib.load("model/label_encoder.joblib")
+model = joblib.load("gboost_model.joblib")
+result_label = joblib.load("label_encoder.joblib")
 
 def prediction(data):
     """Making prediction
