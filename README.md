@@ -31,5 +31,7 @@ Running the app
     deactive
     ```
 
+Apps published in the Streamlit Community Cloud: [Student Dropout Prediction Application](https://student-dropout-prediction-idcamp23.streamlit.app/)
+
 ### Acknowledgement
 I would like to thank [IDCamp (Indosat Ooredoo Hutchison Digital Camp)](https://idcamp.ioh.co.id/) for the digital training scholarship opportunity organized through [Dicoding Indonesia](https://www.dicoding.com/). This training is very useful in improving my competence in the field of Data Science and allows the preparation of this final project as a form of implementation of the learning that has been obtained.
